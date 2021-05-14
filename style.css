@@ -32,18 +32,23 @@
   font-size: 1.3rem;
   font-weight: 600;
   font-family: "Montserrat", sans-serif;
+  background-color:green;
+  color: white;
 }
 
 nav ul {
   text-transform: uppercase;
   list-style: none;
   display: flex;
+  background-color:green;
+  color: white;
 }
 
 nav li a {
   margin-left: 2em;
   cursor: pointer;
-  color: black;
+  background-color:green;
+  color: white;
   text-decoration: none;
   font-size: 1em;
 }
